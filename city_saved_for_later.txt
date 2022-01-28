@@ -1,0 +1,25 @@
+            <div class="four-cities">
+                <div class="city-one">
+                    <a id="city-one" href="">
+                        <img src="img/delhi.png" class="delhi"/>
+                    </a>
+                </div>
+
+                <div class="city-one">
+                    <a id="city-two" href="">
+                        <img src="img/mumbai.png" class="mumbai"/>
+                    </a>
+                </div>
+
+                <div class="city-one">
+                    <a id="city-three" href="">
+                        <img src="img/bangalore.png" class="bangalore"/>
+                    </a>
+                </div>
+
+                <div class="city-one">
+                    <a id="city-four" href="">
+                        <img src="img/hyderabad.png" class="hyderabad"/>
+                    </a>
+                </div>
+            </div>
